@@ -297,7 +297,7 @@
      font-size: 20px;
      font-weight: bold;
      line-height: 22px;
-     color: red;
+     color: #00aeef;
 }
  .button_user li a {
     color: #fff;
@@ -329,8 +329,8 @@
      background: #000;
 }
  .button_user a:hover, .button_user a:focus, .button_user a.active {
-     background: red;
-     border-color: red;
+     background: #00aeef;
+     border-color: #00aeef;
      color: #fff;
 }
  #sidebarCollapse {
@@ -532,7 +532,7 @@
 /** end about **/
 /** service **/
  .service {
-    background: red;
+    background: #00aeef;
      padding: 60px 0px;
 }
  .service .ourheading {
@@ -672,7 +672,7 @@
     padding: 80px 0 90px 0;
 }
  .opening_bg {
-    background: red;
+    background: #00aeef;
      padding: 59px 53px;
 }
  .times ul li {
@@ -704,7 +704,7 @@
      text-align: center;
 }
  .product_blog_cont h4 {
-     color: red;
+     color: #00aeef;
      font-size: 20px;
      line-height: 20px;
      font-weight: 500;
@@ -727,7 +727,7 @@
      padding-bottom: 0px;
 }
  .white {
-     color: red;
+     color: #00aeef;
      font-weight: 500;
 }
  #white_coloe {
@@ -829,7 +829,7 @@
      color: #00678d;
 }
  .copyright {
-     background: red;
+     background: #00aeef;
      margin-top: 90px;
 }
  .copyright p {
@@ -845,7 +845,7 @@
      color: #000;
 }
  .owl-dot {
-     background: red!important;
+     background: #00aeef!important;
      width: 25px;
      height: 25px;
      margin-bottom: 25px !important;
@@ -931,7 +931,7 @@
 }
  #sidebar ul li.active > a, a[aria-expanded="true"] {
      color: #fff;
-     background: red;
+     background: #00aeef;
 }
  a[data-toggle="collapse"] {
      position: relative;
@@ -976,7 +976,7 @@
      font-weight: 500;
 }
  .yellow_bg {
-     background-color: red;
+     background-color: #00aeef;
      padding: 40px 0px;
 }
  .yellow_bg .title {
